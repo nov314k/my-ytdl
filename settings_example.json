@@ -1,0 +1,10 @@
+{
+    "ffmpeg_path": "C:/programs/ffmpeg/bin/ffmpeg.exe",
+    "youtube_dl_path": "C:/programs/youtube-dl.exe",
+    "first_idx": 1,
+    "last_idx": 1,
+    "number_url_shorttitle": [
+        ["998", "https://www.youtube.com/watch?v=_lNkbzmN68s", "", "", "Poem", "uncut"]
+        ["999", "https://www.youtube.com/watch?v=_lNkbzmN68s", "00:00:00.0", "00:01:00.0", "Poem", "end cut"]
+    ]
+}

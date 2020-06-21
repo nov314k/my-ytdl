@@ -1,0 +1,4 @@
+*
+!.gitignore
+!download_podcast.py
+!settings_example.json
